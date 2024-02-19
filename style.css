@@ -3,13 +3,11 @@ body {
 }
 
 /* Opzionale, solo se vuoi stili personalizzati oltre a Tailwind CSS */
-.controlsContainer {
-    /* Stili personalizzati per il contenitore dei controlli, se necessario */
-}
+/* .controlsContainer {
+    } */
 
-.previewContainer {
-    /* Stili personalizzati per il contenitore di anteprima, se necessario */
-}
+/* .previewContainer {
+} */
 
 #fontList li {
     padding: 0.5rem;
