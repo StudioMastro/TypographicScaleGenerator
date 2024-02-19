@@ -10,3 +10,12 @@ body {
 .previewContainer {
     /* Stili personalizzati per il contenitore di anteprima, se necessario */
 }
+
+#fontList li {
+    padding: 0.5rem;
+    cursor: pointer;
+}
+#fontList li:hover {
+    background-color: #f0f0f0;
+}
+
