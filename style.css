@@ -1,0 +1,12 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Opzionale, solo se vuoi stili personalizzati oltre a Tailwind CSS */
+.controlsContainer {
+    /* Stili personalizzati per il contenitore dei controlli, se necessario */
+}
+
+.previewContainer {
+    /* Stili personalizzati per il contenitore di anteprima, se necessario */
+}
